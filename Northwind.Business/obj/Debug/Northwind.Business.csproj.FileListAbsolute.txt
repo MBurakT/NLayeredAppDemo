@@ -12,3 +12,6 @@ C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.Business\obj\D
 C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
 C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.dll
 C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.dll.config
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.SqlServer.xml
