@@ -22,3 +22,5 @@ C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.WebFormsUI\obj
 C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
 C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
 C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll.config
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
