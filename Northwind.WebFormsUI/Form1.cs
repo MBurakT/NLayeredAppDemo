@@ -41,7 +41,7 @@ namespace Northwind.WebFormsUI
             comboBox.DisplayMember = "CategoryName";
             comboBox.ValueMember = "CategoryId";
         }
-
+        
         private void LoadProducts()
         {
             dgwProduct.DataSource = _productService.GetAll();
